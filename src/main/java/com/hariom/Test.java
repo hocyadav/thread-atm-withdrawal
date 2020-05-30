@@ -17,7 +17,7 @@ public class Test {
         thread1.start();
         thread2.start();
         
-        //test
+        System.out.println("completed main..");
 
     }
 }
